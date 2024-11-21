@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: black;
+    color: white;
+}
+.A{
+    width: 400px;
+    height: 800px;
+    background: #df5757;
+}
+
+.B{
+    width: 200px;
+    height: 600px;
+    background-color: aqua;
+}
+.C{
+width: 100px;
+height: 200px;
+background-color: blueviolet;
+}
